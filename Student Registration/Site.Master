@@ -64,7 +64,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Design by RashiCode</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Design by Ahmed Hassan Mohamed Ali Break</p>
             </footer>
         </div>
 
